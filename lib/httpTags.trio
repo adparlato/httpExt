@@ -1,0 +1,15 @@
+//
+// Copyright (c) 2016, Acme
+// All Rights Reserved
+//
+// History:
+//   1 Feb 16   aparlato   Creation
+//
+
+--------------------------------------------------------------------------
+tag: httpTestTag
+kind: Marker
+doc:
+  Test stub tag
+--------------------------------------------------------------------------
+
